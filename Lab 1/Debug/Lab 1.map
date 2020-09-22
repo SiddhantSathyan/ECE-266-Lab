@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker PC v18.12.4                    
 ******************************************************************************
->> Linked Mon Sep  7 16:16:57 2020
+>> Linked Mon Sep 21 01:28:42 2020
 
 OUTPUT FILE NAME:   <Lab 1.out>
 ENTRY POINT SYMBOL: "_c_int00_noargs"  address: 00002acd
@@ -212,7 +212,7 @@ MODULE SUMMARY
     +--+------------------------------+-------+---------+---------+
        Total:                         7795    257       4      
                                                                
-    D:/Util/Util/Debug/Util.lib
+    D:/Git Repos/LabGroupA1/Util/Debug/Util.lib
        launchpad.obj                  976     0         268    
        uart.obj                       196     0         0      
        led.obj                        156     0         1      

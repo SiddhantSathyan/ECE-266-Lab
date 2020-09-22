@@ -14,7 +14,7 @@ ORDERED_OBJS += \
 "./tm4c123gh6pm_startup_ccs.obj" \
 "../tm4c123gh6pm.cmd" \
 $(GEN_CMDS__FLAG) \
--l"D:/Projects/ECE266/Util/Debug/Util.lib" \
+-l"D:/Git Repos/LabGroupA1/Util/Debug/Util.lib" \
 -llibc.a \
 -l"C:/ti/TivaWare_C_Series-2.2.0.295/driverlib/ccs/Debug/driverlib.lib" \
 
